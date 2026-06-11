@@ -1,15 +1,15 @@
-# Hii 👋 I'm abc
+# Hii 👋 I'm palak pandey
 
 ## 👩‍💻 About Me
-- 🎓  Computer Science & Engineering  
-- 🌱 Currently exploring *Cybersecurity, **Machine Learning, and **Quantum Computing*  
-- 💻 Skilled in *C++, HTML, CSS*  
-- 📊 Passionate about Research & Development  
+- 🎓  Computer Science & Engineering with DS
+- 🌱 Currently exploring *tech world, **programming language, and **project*  
+- 💻 Skilled in *C++, HTML, CSS, python ,C, java *  
+- 📊 Passionate about software devlopment  
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-parihar-b6a7683)  
+[![LinkedIn](https://www.linkedin.com/in/palak-pandey-09a448370?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/20Ana)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ankita714)
 
